@@ -2,6 +2,8 @@
 
 A powerful multi-agent orchestration system for Claude Code that enables parallel execution of specialized AI agents to build complex software systems.
 
+>SLIDES IN SLIDES.MD!!!! CHECK EM OUT IF YA MISSED THE WORKSHOP
+
 ## 🚀 Key Features
 
 - **Parallel Execution**: Run multiple specialized agents simultaneously
